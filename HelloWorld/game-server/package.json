@@ -1,0 +1,9 @@
+{
+    "name": "HelloWorld",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "mysql": "^2.18.1",
+        "pomelo": "2.2.7"
+    }
+}
